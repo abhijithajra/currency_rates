@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AbhisCurrency" parent="Theme.Material3.Light.NoActionBar">
+         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+         <item name="colorPrimary">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Theme.AbhisCurrency" parent="Base.Theme.AbhisCurrency" />
+</resources>
